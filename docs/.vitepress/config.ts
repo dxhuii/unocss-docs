@@ -81,8 +81,8 @@ const Tools: DefaultTheme.NavItemWithLink[] = [
 ]
 
 const Resources: DefaultTheme.NavItemWithLink[] = [
-  { text: 'Interactive Docs', link: '/interactive/', target: '_blank' },
-  { text: 'Playground', link: '/play/', target: '_blank' },
+  { text: 'Interactive Docs', link: 'https://unocss.dev/interactive/', target: '_blank' },
+  { text: 'Playground', link: 'https://unocss.dev/play/', target: '_blank' },
   { text: 'Tutorial', link: 'https://tutorial.unocss.dev/', target: '_blank' },
 ]
 
