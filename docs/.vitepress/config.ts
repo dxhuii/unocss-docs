@@ -280,6 +280,7 @@ export default defineConfig({
     ['meta', { name: 'twitter:site', content: '@antfu7' }],
     ['meta', { name: 'twitter:url', content: ogUrl }],
     ['link', { rel: 'search', type: 'application/opensearchdescription+xml', href: '/search.xml', title: 'UnoCSS' }],
+    ['script', { 'src': 'https://d.vv.chat/script.js', 'defer': 'true', 'data-website-id': '691ab4f0-9191-40bb-8b3c-da5d2ffb3ab1' }],
   ],
   lastUpdated: true,
   cleanUrls: true,
